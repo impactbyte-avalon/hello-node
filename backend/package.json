@@ -1,0 +1,24 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "hello nodE",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arian77/hello-node.git"
+  },
+  "keywords": ["hello", "node"],
+  "author": "arian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arian77/hello-node/issues"
+  },
+  "homepage": "https://github.com/arian77/hello-node#readme"
+}
