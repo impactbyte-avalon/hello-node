@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "jquery",
+  "main": "index.js",
+  "dependencies": {
+    "animate.css": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoriqnf/hello-node.git"
+  },
+  "keywords": [
+    "hello",
+    "node"
+  ],
+  "author": "Thq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thoriqnf/hello-node/issues"
+  },
+  "homepage": "https://github.com/thoriqnf/hello-node#readme"
+}
